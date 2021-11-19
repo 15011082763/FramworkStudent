@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8yserosT79KO7ZSiWa4amI6P56Nx3y05Ycy1QkgPnStLgfbWXSlw8wFdYgnAEYSRsxb558a8P9YWZM47Tttycw==",
+  "success": true,
+  "projectFilePath": "D:\\架构\\code\\FramworkStudent\\FramewPeople\\AuthenticationCenter\\AuthenticationCenter.ApiHost.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\23796\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
